@@ -1,0 +1,12 @@
+
+/* 
+    Created on : Mar 30, 2023, 1:02:59 p.m.
+    Author     : spate
+*/
+
+.root {
+    -fx-background-color:aqua;
+}
+Label {
+    -fx-text-fill:red;
+}
